@@ -2,7 +2,7 @@
   "name": "deploycheck-vscode",
   "displayName": "deploycheck",
   "description": "Catch what breaks production before it breaks. Real time environment validation inside VS Code.",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "publisher": "Orches",
   "engines": {
     "vscode": "^1.74.0"
