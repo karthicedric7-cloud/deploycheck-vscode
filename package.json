@@ -31,5 +31,8 @@
   },
   "devDependencies": {
     "@types/vscode": "^1.74.0"
+  },
+  "dependencies": {
+    "posthog-node": "^5.28.4"
   }
 }
